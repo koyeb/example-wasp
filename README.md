@@ -63,7 +63,7 @@ If you want to customize and enhance this application, you need to fork this rep
 
 If you used the **Deploy to Koyeb** button, you can simply link your service to your forked repository to be able to push changes.  Alternatively, you can manually create the application as described below.
 
-On the [Koyeb Control Panel](//app.koyeb.com/apps), on the **Overview** tab, click the **Create Web Service** button to begin.
+On the [Koyeb Control Panel](https://app.koyeb.com/), on the **Overview** tab, click the **Create Web Service** button to begin.
 
 To deploy the server backend, use the following procedure:
 
@@ -92,7 +92,7 @@ To deploy the server backend, use the following procedure:
 
 To deploy the web frontend, use the following procedure: 
 
-On the **Apps** tab of the [Koyeb control panel](https://app.koyeb.com/apps), click on the Wasp server backend App.  In the upper-right corner, click **Create Service** to create a new Service within the same application domain.
+On the **Apps** tab of the [Koyeb control panel](https://app.koyeb.com/), click on the Wasp server backend App.  In the upper-right corner, click **Create Service** to create a new Service within the same application domain.
 
 1. Select **GitHub** as the deployment method.
 2. Select your Wasp project repository repository.
